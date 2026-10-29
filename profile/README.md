@@ -1,28 +1,9 @@
-```
-        .-~~~~~~~-.
-     .'             '.
-    /                 \
-   |                   |
-   |         o         |
-   |                   |
-    \                 /
-     '.      |      .'
-       '-.._ | _..-'
-             |
-
- P   U   R   P   O   S   E
-B E F O R E    M O T I O N
-```
-
 <div align="center">
-
-**User Experience Artists.** A small studio designing and developing software with care for the people who use it.
-
 [Website](https://purposebeforemotion.com) · [Work](https://purposebeforemotion.com/work) · [Contact](https://purposebeforemotion.com/contact)
-
+**User Experience Artists**
 </div>
 
----
+A small studio designing and developing software with care for the people who use it.
 
 We start with what you want to make possible and what people need to do, then build the design and software that connects the two.
 
