@@ -1,6 +1,9 @@
 <div align="center">
+
 [Website](https://purposebeforemotion.com) · [Work](https://purposebeforemotion.com/work) · [Contact](https://purposebeforemotion.com/contact)
+
 **User Experience Artists**
+
 </div>
 
 A small studio designing and developing software with care for the people who use it.
